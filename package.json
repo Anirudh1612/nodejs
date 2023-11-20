@@ -1,0 +1,9 @@
+{
+  "name": "Keep-Sample-App",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "start": "node keep-alive.js"
+  }
+}
